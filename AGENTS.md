@@ -43,3 +43,13 @@
 - 月度：渠道/平台规则检查
 - 事件驱动：搜索算法变化、工具上下线、重大版本发布
 - 每次更新后：写版本号+变更记录；变化未核实时标"待验证"
+
+## OKF 知识层（采用声明 · okf-wiki v0.2 标准档）
+
+> 本仓库知识成品（渠道矩阵/机制文档等）采用 OKF v0.2 标准档 frontmatter（方法见技能 `~/Doubao/skills/okf-wiki`）。**只叠加格式层，不建平行知识库**：index=DOCUMENTATION_MAP.md、log=CHANGELOG.md、schema=本文件；存量不强制回填，**新写文档自然采用**。
+
+- **type 词表（项目统一，不得自造）**：`ChannelMatrix`（渠道矩阵：珠宝AI/翡翠情报）/ `Mechanism`（监控机制）/ `MonitorObject`（监控对象）/ `Reference`（导航·索引·模板）
+- **标准档字段**：`type` + `title` + `description` + `tags` + `sources`（四档来源链接）+ `generated`（`{by, at}`）+ `status`（stable/draft）+ `stale_after`（周期复审时间，按更新频率定）+ 自定义 key（`version` / `scope` 等）
+- **信任标注**：机器初编不写 `verified: human`（不冒充人核）；用户审核后才补
+- **机械校验（提交前必过）**：`python3 ~/Doubao/skills/okf-wiki/scripts/okf_validate.py . --exclude <存量未回填文档>`——硬错误 E 必须为 0，警告 W 逐条确认。**注意**：存量文档（未加 frontmatter）会被报 E1，属"存量不强制回填"预期；校验只认**已采用 OKF 的文档**（新写/已补 frontmatter 者），执行时用 `--exclude` 排除存量清单，或按目录单独校验
+- **frontmatter 为机器权威**：正文信息块由其派生，二者一致，不两处维护
