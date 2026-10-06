@@ -21,6 +21,7 @@
 - 不在未授权时用脚本批量抓取他人数据（平台反爬与合规优先）
 
 ## 恢复顺序
+0. 跨体系任务：业务意图（发什么/定方向）→ 运营仓 `~/Desktop/self-media-ops/docs/SYSTEM_STRATEGY.md`；运行机制/路由 → 采集底座 `~/Desktop/multiplatform-content-pipeline/docs/SYSTEM_ARCHITECTURE.md`
 1. 读本文件 → 2. 读 README → 3. 看 `03_监控机制/` 更新频率 → 4. 需要时读 `01~04` 对应清单
 
 ## 文档快速入口（按任务类型查找）
