@@ -54,6 +54,14 @@
 | [jewelry/关键词库.md](场景应用/jewelry/关键词库.md) | 各平台关键词组（营销/AI/品类/海外），每周扫描照词搜 | 矩阵 §1.2/§2.2/§5.3 |
 | [jewelry/每周情报速递模板.md](场景应用/jewelry/每周情报速递模板.md) | 速递文档模板 + 取证层级说明 | 自身 |
 | [jewelry/每周情报速递/](场景应用/jewelry/每周情报速递/) | 已产出速递归档 | 模板 |
+| [furniture/README.md](场景应用/furniture/README.md) | 家具场景要点：双轨（收藏轨明清古典拍卖/消费轨日常家具） | 行业包 §furniture + 行业细分表 §3.4 |
+| [painting/README.md](场景应用/painting/README.md) | 书画场景要点：四体系 + 拍行成交锚点 | 行业包 §painting + 行业细分表 §3.6 |
+| [watches/README.md](场景应用/watches/README.md) | 腕表场景要点：四体系 + 二级行情 | 行业包 §watches + 行业细分表 §3.7 |
+| [spirits/README.md](场景应用/spirits/README.md) | 名酒场景要点：白酒×威士忌双体系 | 行业包 §spirits + 行业细分表 §3.8 |
+| [agarwood/README.md](场景应用/agarwood/README.md) | 沉香场景要点：三体系 + 新华指数 | 行业包 §agarwood + 行业细分表 §3.9 |
+| [western-antiques/README.md](场景应用/western-antiques/README.md) | 西洋古董场景要点：三体系 + 博物馆展 | 行业包 §western-antiques + 行业细分表 §3.5 |
+| [ceramics/README.md](场景应用/ceramics/README.md) | 陶瓷场景要点：五大体系 + 陶瓷手串专组 | 行业包 §ceramics + 行业细分表 §3.3a |
+| [antiques/README.md](场景应用/antiques/README.md) | 古玩·古董场景要点：杂项器物支线（鼻烟壶/文房/高古玉等） | 行业包 §antiques + 行业细分表 §3.3 |
 
 ## 维护规则
 
