@@ -48,7 +48,7 @@
 ## 指向矩阵（唯一权威源）
 
 - 行业×渠道匹配总表：`../01_渠道矩阵/行业细分_鉴藏总域_行业渠道匹配_v1_20261007.md` **§3.3（古玩·古董）** 与 **§四（观望行业含文玩杂项归并说明）**
-- 行业包正文：`~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §ceramics + §jewelry-ai §6 古玩体系行
+- 行业包正文：`research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §ceramics + §jewelry-ai §6 古玩体系行
 - 通用渠道（抖音/小红书/B站/微博/知乎/海外）：`../01_渠道矩阵/珠宝AI渠道矩阵_v1.1_20261006.md`，本目录不重复
 
 ## 古玩场景下一步（待办）

@@ -1,7 +1,7 @@
 # 场景应用 · ceramics（陶瓷/瓷器场景实例层）
 
 > 本仓为**通用监控体系**；陶瓷场景的行业特定内容在此。通用渠道/机制见 `01~04` 目录，本目录只放陶瓷特定实例与指针。
-> 行业正文（体系细分/词库/查询模板/专属源）唯一权威源：技能库 `~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §ceramics（本目录不重复维护事实，只摘要点）。
+> 行业正文（体系细分/词库/查询模板/专属源）唯一权威源：技能库 `research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §ceramics（本目录不重复维护事实，只摘要点）。
 
 ## 陶瓷场景要点（来源：industry-packs §ceramics + 矩阵 v1 §3.3）
 

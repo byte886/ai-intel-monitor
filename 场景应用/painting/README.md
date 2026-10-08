@@ -1,7 +1,7 @@
 # 场景应用 · painting（书画/字画场景实例层）
 
 > 本仓为**通用监控体系**；书画场景的行业特定内容在此。通用渠道/机制见 `01~04` 目录，本目录只放书画特定实例与指针。
-> 行业包正文（唯一权威源）：技能库 `~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §painting-calligraphy（候选包 v0，2026-10-07 已论证，待拍板转正式）。
+> 行业包正文（唯一权威源）：技能库 `research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §painting-calligraphy（候选包 v0，2026-10-07 已论证，待拍板转正式）。
 
 ## 书画场景要点（来源：矩阵 v1 §3.6 + 书画包）
 

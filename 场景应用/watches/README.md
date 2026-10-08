@@ -13,7 +13,7 @@
   - 讨论场：知乎（鉴定长文）、Reddit（r/Watches）、X（实时报价）
   - 独立制表风向：GPHG（日内瓦钟表大赏）、Only Watch 慈善拍卖
 - **完整矩阵（唯一权威源）**：`../01_渠道矩阵/行业细分_鉴藏总域_行业渠道匹配_v1_20261007.md` §3.7（腕表）+ §二行业×渠道匹配表
-- **行业包正文（体系细分/词库/查询模板）**：`~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §watches
+- **行业包正文（体系细分/词库/查询模板）**：`research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §watches
 
 ## 指向腕表主仓
 

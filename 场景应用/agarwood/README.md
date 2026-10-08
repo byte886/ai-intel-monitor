@@ -12,7 +12,7 @@
   - **直播电商/消费**：抖音 + 小红书（国内主战场）；TikTok（中东 oud）；Instagram
   - **香道文化**：微信公众号 + 小红书 + B站（打香篆/香席长内容）
   - **数据锚点**：2026-04 中国沉香（手串）电商价格指数 730.80 点、均价 417.12 元/件 ✅ indices.cnfin.com；2026-08 海南沉香（手串）制品指数单月 +19.23% ✅ https://m.cnfin.com/cy-lb/zixun/20260929/4476228_1.html ；全产业链超 300 亿、年增速 ~20% 🔶 http://news.qq.com/rain/a/20260421A01QP600
-- **完整矩阵（唯一权威源）**：`../01_渠道矩阵/行业细分_鉴藏总域_行业渠道匹配_v1_20261007.md` §3.9（沉香）；行业包正文 = 调研技能 `~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §agarwood-incense
+- **完整矩阵（唯一权威源）**：`../01_渠道矩阵/行业细分_鉴藏总域_行业渠道匹配_v1_20261007.md` §3.9（沉香）；行业包正文 = 调研技能 `research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §agarwood-incense
 
 ## 指向沉香主仓
 

@@ -12,7 +12,7 @@
   - 威士忌（全球定价）：苏富比 Distilled（香港，亚洲锚点）、Scotch Whisky Investments 指数、Whisky Auctioneer、Reddit（r/Scotch）、Telegram
   - 品鉴内容：小红书（品鉴笔记）
 - **完整矩阵（唯一权威源）**：`../01_渠道矩阵/行业细分_鉴藏总域_行业渠道匹配_v1_20261007.md` §3.8（名酒）+ §二行业×渠道匹配表
-- **行业包正文（体系细分/词库/查询模板）**：`~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §spirits
+- **行业包正文（体系细分/词库/查询模板）**：`research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §spirits
 
 ## 指向名酒主仓
 

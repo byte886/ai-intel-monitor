@@ -1,7 +1,7 @@
 # 场景应用 · furniture（家具场景实例层）
 
 > 本仓为**通用监控体系**；家具场景的行业特定内容在此。通用渠道/机制见 `01~04` 目录，本目录只放家具特定实例与指针。
-> 行业包正文（唯一权威源）：技能库 `~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §furniture（正式包 v1，2026-10-07 建包）。
+> 行业包正文（唯一权威源）：技能库 `research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §furniture（正式包 v1，2026-10-07 建包）。
 
 ## 家具场景要点（来源：矩阵 v1 §3.4 + 家具包 §1/§4/§5）
 

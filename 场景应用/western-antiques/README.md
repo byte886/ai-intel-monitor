@@ -11,7 +11,7 @@
   - **零售/探店生态**：抖音 + 小红书（探店短视频）；淘宝西洋老银器；Instagram；**1stdibs**（高端线上市场）
   - **海外拍场**：**Sotheby's / Christie's 装饰艺术部** + Bonhams；Antiques Trade Gazette（ATG）
   - **行业特定调研源**：杭州博物馆×梁毅博物馆西方银器展 80 套（18-20 世纪）✅ https://www.liangyimuseum.com/_files/ugd/c40d14_c2033b39b7e7491daacfc3debc4f3a84.pdf ；华夏收藏网（银器社区）；长沙博物馆清代外销精品展 ✅ http://wlgd.changsha.gov.cn/fwms/whhdxx/zlhdyg/202511/t20251103_12041557.html ；瑞典 Täby 拍卖行"欧洲私藏·亚洲艺术品"专场 ✅ https://m-news.artron.net/20251013/n1144828.html
-- **完整矩阵（唯一权威源）**：`../01_渠道矩阵/行业细分_鉴藏总域_行业渠道匹配_v1_20261007.md` §3.5（西洋古董）；行业包正文 = 调研技能 `~/Doubao/skills/web-research-toolkit/references/industry-packs.md` §western-antiques
+- **完整矩阵（唯一权威源）**：`../01_渠道矩阵/行业细分_鉴藏总域_行业渠道匹配_v1_20261007.md` §3.5（西洋古董）；行业包正文 = 调研技能 `research-toolkit` 技能（行业包 `industry-packs.md`，技能目录；找不到请用户安装） §western-antiques
 
 ## 指向西洋古董主仓
 
