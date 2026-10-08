@@ -1,4 +1,4 @@
-# AGENTS.md · ai-intel-monitor 运行规则
+# AGENTS.md · trend-radar 运行规则
 
 > 给 AI 看的命令式规则。新会话启动先读本文件，再读 README。
 

@@ -1,4 +1,4 @@
-# ai-intel-monitor · AI 情报监控体系（通用仓库）
+# trend-radar · AI 情报监控体系（通用仓库）
 
 > 面向"持续跟踪、扫描、借鉴"的通用情报监控仓——不限行业。当前主包：**珠宝 + 翡翠**（珠宝：线下门店、AI 生成珠宝效果图/视频、抖音主阵地；翡翠：市场情报六线——公盘/矿区/产业带/行情/直播/鉴定）。
 
@@ -66,4 +66,4 @@
 
 ## 相关
 
-- 本仓库 GitHub：`github.com:byte886/ai-intel-monitor`
+- 本仓库 GitHub：`github.com:byte886/trend-radar`
