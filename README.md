@@ -66,6 +66,4 @@
 
 ## 相关
 
-- 体系总控仓（multi-repo-orchestration：方法论+五仓全景/跨仓路由/本仓=③情报雷达）：`~/Desktop/multi-repo-orchestration/`（远端 `github.com:byte886/multi-repo-orchestration`）
-- 珠宝主仓（全流程 SOP/选型/设计评估/效果图）：`/Users/wenjiechen/Desktop/ai-video-studio`（远端 `github.com:byte886/ai-video-studio`）
 - 本仓库 GitHub：`github.com:byte886/ai-intel-monitor`
