@@ -5,7 +5,7 @@
 ## 定位
 通用 AI 情报监控仓：渠道矩阵 / 监控对象 / 监控机制 / 落地工具 为通用层；`场景应用/<行业>/` 为行业实例层。监控结论可跨行业复用，行业细节留在场景层。
 
-> **鉴藏总域（heritage）**：珠宝/翡翠/古玩·古董/家具/东方·西方收藏体系统一纳入"鉴藏"知识域（鉴宝+收藏）。当前监控主包＝珠宝+翡翠（对应调研技能行业包 heritage/01_jewelry、heritage/02_jadeite）；陶瓷等古玩线按需启用。总域骨架见采集底座 `multiplatform-content-pipeline/domains/heritage/README.md`。
+> **鉴藏总域（heritage）**：珠宝/翡翠/古玩·古董/家具/东方·西方收藏体系统一纳入"鉴藏"知识域（鉴宝+收藏）。当前监控主包＝珠宝+翡翠（对应调研技能行业包 heritage/01_jewelry、heritage/02_jadeite）；陶瓷等古玩线按需启用。总域骨架见采集底座 `content-pipeline/domains/heritage/README.md`。
 
 ## 目录约定
 - `01_渠道矩阵/`：通用渠道清单（社媒/媒体/社区/工具/数据/展会），只增不改旧条目，过时加"[已停用 日期：原因]"
@@ -21,7 +21,7 @@
 - 不在未授权时用脚本批量抓取他人数据（平台反爬与合规优先）
 
 ## 恢复顺序
-0. 跨体系任务：业务意图（发什么/定方向）→ 运营仓 `~/Desktop/we-media-ops/docs/SYSTEM_STRATEGY.md`；运行机制/路由 → 采集底座 `~/Desktop/multiplatform-content-pipeline/docs/SYSTEM_ARCHITECTURE.md`
+0. 跨体系任务：业务意图（发什么/定方向）→ 运营仓 `~/Desktop/we-media-ops/docs/SYSTEM_STRATEGY.md`；运行机制/路由 → 采集底座 `~/Desktop/content-pipeline/docs/SYSTEM_ARCHITECTURE.md`
 1. 读本文件 → 2. 读 README → 3. 看 `03_监控机制/` 更新频率 → 4. 需要时读 `01~04` 对应清单
 
 ## 文档快速入口（按任务类型查找）
