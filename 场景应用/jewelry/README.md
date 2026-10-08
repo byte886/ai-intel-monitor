@@ -16,7 +16,7 @@
 
 ## 指向珠宝主仓
 
-- 珠宝全流程资产（SOP/选型/设计评估/效果图/ADR）：`/Users/wenjiechen/Desktop/jewelry-ai-video-sop`（GitHub: `github.com/byte886/jewelry-ai-video-sop`）
+- 珠宝全流程资产（SOP/选型/设计评估/效果图/ADR）：`/Users/wenjiechen/Desktop/ai-video-studio`（GitHub: `github.com/byte886/ai-video-studio`）
 - 珠宝主仓的"发现层"指针已加：监控体系见本仓
 
 ## 珠宝场景下一步（待办）
